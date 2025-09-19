@@ -15,7 +15,8 @@ This project demonstrates how to transcribe spoken language into written form, e
 - [Features](#features)  
 - [Demo](#demo)  
 - [Installation](#installation)  
-- [Output](#output)  
+- [Output](#output)
+- [Dataset](#dataset) 
 
 ---
 
@@ -77,5 +78,11 @@ Adjusting for background noise... Please wait
 Start speaking! (Press Ctrl+C to stop)
 You said: Hello, this is a test.
 ```
+---
 
+## 📊 Dataset
+
+The dataset is available on [Kaggle](https://www.kaggle.com/code/cdeotte/25-million-images-0-99757-mnist/input)  or included as a CSV file within the project repository.
+
+---
 
