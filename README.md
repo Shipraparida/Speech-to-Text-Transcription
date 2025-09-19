@@ -63,7 +63,7 @@ python speech_to_text.py
    pip install SpeechRecognition
    pip install pyaudio
    ```
-3. **On Windows, pyaudio if fails to install. If that happens, then:**
+3. **On Windows,  if pyaudio fails to install. If that happens, then:**
    ```bash
    pip install pipwin
    pipwin install pyaudio
