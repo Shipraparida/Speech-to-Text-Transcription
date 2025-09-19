@@ -16,7 +16,7 @@ This project demonstrates how to transcribe spoken language into written form, e
 - [Demo](#demo)  
 - [Installation](#installation)  
 - [Output](#output)
-- [Dataset](#dataset) 
+
 
 ---
 
@@ -80,8 +80,4 @@ You said: Hello, this is a test.
 ```
 ---
 
-## 📊 Dataset
-
-The dataset is available on [Kaggle](https://www.kaggle.com/code/cdeotte/25-million-images-0-99757-mnist/input) 
----
 
