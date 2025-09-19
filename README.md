@@ -82,7 +82,6 @@ You said: Hello, this is a test.
 
 ## 📊 Dataset
 
-The dataset is available on [Kaggle](https://www.kaggle.com/code/cdeotte/25-million-images-0-99757-mnist/input)  or included as a CSV file within the project repository.
-
+The dataset is available on [Kaggle](https://www.kaggle.com/code/cdeotte/25-million-images-0-99757-mnist/input) 
 ---
 
